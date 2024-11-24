@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I am currently working on a Social Media Application<br><br>🔖Fun Fact, I love C++ So far
+🔭I am currently working on a Social Media Application<br><br>🔖Fun Fact, I am single
 
 
 ## 🌐 Socials:
